@@ -15,7 +15,7 @@ global.numberowner = '6285813091798'
 global.instagram = 'https://www.instagram.com/sun3tod.real'
 global.github = 'https://github.com/Botynyakamu'
 global.dana = '085813091798'
-global.pulsa = 'TUDAK MENERIMA PULSA'
+global.pulsa = 'TUDAK MENERIMA PESAN'
 global.gopay = '085813091798'
 
 //=============『 Info Bot 』=================//
